@@ -31,6 +31,6 @@ pip install requests pillow
 
 python Weather_App.py
 
-Project Screenshot
+## Project Screenshot
 
 <img width="1002" height="1068" alt="Weather App Screenshot" src="https://github.com/user-attachments/assets/1842893f-19d4-4df9-9c20-894af022faa4" /> ```
