@@ -26,7 +26,11 @@ A Python-based GUI Weather Application built with Tkinter that integrates the Op
 pip install requests pillow
 ```
 2.Add your OpenWeatherMap API key in the Python file.
+
 3.Run the application:
+
 python Weather_App.py
+
 Project Screenshot
+
 <img width="1002" height="1068" alt="Weather App Screenshot" src="https://github.com/user-attachments/assets/1842893f-19d4-4df9-9c20-894af022faa4" /> ```
